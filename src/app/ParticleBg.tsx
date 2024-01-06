@@ -17,7 +17,7 @@ export default function ParticleBg() {
     });
   }, []);
 
-  const options = {
+  const options: any = {
     particles: {
       number: {
         value: 80,
