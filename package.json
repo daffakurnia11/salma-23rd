@@ -9,16 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tsparticles/engine": "^3.0.3",
+    "@tsparticles/react": "^3.0.0",
+    "antd": "^5.12.8",
+    "bootstrap": "^5.3.2",
+    "framer-motion": "^10.17.9",
+    "jotai": "^2.6.1",
+    "next": "14.0.4",
     "react": "^18",
+    "react-bootstrap": "^2.9.2",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "tsparticles": "^3.0.3"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.0.4"
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
   }
 }
